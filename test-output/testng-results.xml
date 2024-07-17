@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-05-20T14:13:29 IST" name="Default suite" finished-at="2024-05-20T14:14:06 IST" duration-ms="37945">
+    <groups>
+    </groups>
+    <test started-at="2024-05-20T14:13:29 IST" name="Default test" finished-at="2024-05-20T14:14:06 IST" duration-ms="37945">
+      <class name="TestScripts.RegisterTest">
+        <test-method signature="register_001(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:TestScripts.RegisterTest@1283bb96]" started-at="2024-05-20T14:13:29 IST" name="register_001" data-provider="regdata" finished-at="2024-05-20T14:13:37 IST" duration-ms="7728" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[G P]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Muthu]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[muthu@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[muthu@143]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[muthu@143]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- register_001 -->
+        <test-method signature="register_001(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:TestScripts.RegisterTest@1283bb96]" started-at="2024-05-20T14:13:37 IST" name="register_001" data-provider="regdata" finished-at="2024-05-20T14:13:44 IST" duration-ms="6808" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Harsha sir]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Shanti Mam]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[hash@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[hash@143]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[hash@143]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- register_001 -->
+        <test-method signature="register_001(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:TestScripts.RegisterTest@1283bb96]" started-at="2024-05-20T14:13:44 IST" name="register_001" data-provider="regdata" finished-at="2024-05-20T14:13:49 IST" duration-ms="5462" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Tabrez]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Sheela]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[tabshee@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[tabshee@143]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[tabshee@143]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- register_001 -->
+        <test-method signature="register_001(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:TestScripts.RegisterTest@1283bb96]" started-at="2024-05-20T14:13:49 IST" name="register_001" data-provider="regdata" finished-at="2024-05-20T14:13:55 IST" duration-ms="5731" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Swathi]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[K]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[SwathiLoveK@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[swathiK@143]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[swathiK@143]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- register_001 -->
+        <test-method signature="register_001(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:TestScripts.RegisterTest@1283bb96]" started-at="2024-05-20T14:13:55 IST" name="register_001" data-provider="regdata" finished-at="2024-05-20T14:14:01 IST" duration-ms="5941" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Nandan]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[AtoZ]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[AtoZ@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[atoz@143]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[atoz@143]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- register_001 -->
+        <test-method signature="register_001(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:TestScripts.RegisterTest@1283bb96]" started-at="2024-05-20T14:14:01 IST" name="register_001" data-provider="regdata" finished-at="2024-05-20T14:14:06 IST" duration-ms="5481" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Gokul]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Bharath]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[gocool@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[cool@143]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[cool@143]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- register_001 -->
+      </class> <!-- TestScripts.RegisterTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
